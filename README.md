@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @renderseed00
 - 👀 I’m interested in continuing to build my development knowledge to create unique and engaging web experiences
-- 🌱 I’m currently learning JavaScript & PHP
 - 💞️ I’m looking to collaborate on WebGL and WebGPU projects
 - 📫 How to reach me: renderseedlabs.com
 
